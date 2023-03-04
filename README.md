@@ -6,26 +6,26 @@
 - 🌱 I’m currently learning **Node, React, MongoDB**
 
 - 👨‍💻 All of my projects are available at
-[https://github.com/Ousepsony?tab=repositories](https://github.com/Ousepsony?tab=repositories)
+[https://github.com/joskeph?tab=repositories](https://github.com/joskeph?tab=repositories)
 
 - 💬 Ask me about **Javascript, CSS, Express**
 
-- 📫 How to reach me **ousepsony@gmail.com**
+- 📫 How to reach me **joskeph@gmail.com**
 
 - ⚡ Fun fact **I can play Gigachad theme song on a Casio MJ-100 Calculator <img align="center" src="[https://img.icons8.com/color/480/date-fruit.png](https://imgur.com/ql7zYxd)"
-    alt="ousepsony" height="30" width="30" />**
+    alt="joskeph" height="30" width="30" />**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://codepen.io/ousepsony" target="blank"><img align="center"
+    <a href="https://codepen.io/joskeph" target="blank"><img align="center"
             src="https://cdn.cdnlogo.com/logos/c/77/codepen-icon.svg"
-            alt="ousepsony" height="30" width="40" />Codepen - Ousepsony</a><br>
-    <a href="https://twitter.com/ousepsony" target="blank"><img align="center"
+            alt="joskeph" height="30" width="40" />Codepen - joskeph</a><br>
+    <a href="https://twitter.com/joskeph" target="blank"><img align="center"
             src="https://cdn.cdnlogo.com/logos/t/45/twitter.svg"
-            alt="ousepsony" height="30" width="40" />Twitter - ousepsony</a><br>
-    <a href="https://stackoverflow.com/users/ousepsony" target="blank"><img align="center"
+            alt="joskeph" height="30" width="40" />Twitter - joskeph</a><br>
+    <a href="https://stackoverflow.com/users/joskeph" target="blank"><img align="center"
             src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg"
-              alt="ousepsony" height="30" width="40" />StackOverFlow - Ousepsony</a>
+              alt="joskeph" height="30" width="40" />StackOverFlow - joskeph</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -71,10 +71,10 @@
             width="40" height="40" /> </a> </p>
 <hr>
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ousepsony&show_icons=true&locale=en" alt="ousepsony" />
+        src="https://github-readme-stats.vercel.app/api?username=joskeph&show_icons=true&locale=en" alt="joskeph" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ousepsony&" alt="ousepsony" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joskeph&" alt="joskeph" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ousepsony&label=Profile%20views&color=0e75b6&style=flat"
-        alt="ousepsony" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joskeph&label=Profile%20views&color=0e75b6&style=flat"
+        alt="joskeph" /> </p>
