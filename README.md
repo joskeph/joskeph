@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Node, React, MongoDB**
 
 - 👨‍💻 All of my projects are available at
-[https://github.com/joskeph?tab=repositories](https://github.com/joskeph?tab=repositories)
+(Repositories)[https://github.com/joskeph?tab=repositories](https://github.com/joskeph?tab=repositories)
 
 - 💬 Ask me about **Javascript, CSS, Express**
 
