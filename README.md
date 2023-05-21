@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **joskeph@gmail.com**
 
-- ⚡ Fun fact **I can play Gigachad theme song on a Casio MJ-100 Calculator 🤩
+- ⚡ Fun fact **I can play Gigachad theme song on a Casio MJ-100 Calculator 🤩 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
