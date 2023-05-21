@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **joskeph@gmail.com**
 
-- ⚡ Fun fact **I can play Gigachad theme song on a Casio MJ-100 Calculator <img align="center" src="[https://img.icons8.com/color/480/date-fruit.png](https://imgur.com/ql7zYxd)"
-    alt="joskeph" height="30" width="30" />**
+- ⚡ Fun fact **I can play Gigachad theme song on a Casio MJ-100 Calculator 🤩
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
