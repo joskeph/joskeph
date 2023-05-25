@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 <h3 align="center">An upcoming fullstacker from GMT+5:30.</h3>
-# [**Psst.. Please do star my ReadME if you like it, takes minimal Effort and helps me out a ton**](https://github.com/joskeph/joskeph)
+
+<h6><em>Psst... </em><a href="http://github.com/joskeph/joskeph">Help a ton by starring this ReadME</a> 😅</h6>
+
 
 <hr>
 
