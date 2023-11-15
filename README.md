@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
-<h3 align="center">An upcoming fullstacker from GMT+3:30.</h3>
+<h3 align="center">--------.</h3>
 
 <h6><em>Psst... </em><a href="http://github.com/joskeph/joskeph">Help a ton by starring this ReadME</a> 😅</h6>
 
